@@ -1,0 +1,23 @@
+{
+  "name": "talkingCases",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/MapTalks/talkingCases.git"
+  },
+  "devDependencies": {
+    "del": "*",
+    "gulp": "*",
+    "gulp-rename": "*",
+    "gulp-concat": "*",
+    "gulp-if": "*",
+    "gulp-load-plugins": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "gulp-connect": "*",
+    "browserify" : "*",
+    "vinyl-source-stream": "*"
+  }
+}

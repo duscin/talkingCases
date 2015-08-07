@@ -1,0 +1,1 @@
+window.talkingCases = require('./talkingCases')(window);

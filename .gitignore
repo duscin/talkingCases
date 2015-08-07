@@ -1,8 +1,6 @@
 .tmp/
-build/*.css*
-build/*.min.css*
-seegoo.map.js*
-seegoo.map.min.js*
+dist/*.css*
+dist/*.min.css*
 
 # Created by .ignore support plugin (hsz.mobi)
 ### Node template
