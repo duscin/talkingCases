@@ -8,8 +8,12 @@
 6. 访问 http://localhost:20000/
 
 gulp流程:
+---------
+
 1.browerify编译源代码
+
 2.压缩后发布到dist目录中
+
 3.监听src目录, 有修改则自动编译发布.
 
 
@@ -17,6 +21,8 @@ gulp流程:
 -----------------
 
 src: talkingCases的源代码
+
+dist: talkingCases的发布目录
 
 index.html:测试运行页面
 
